@@ -1,10 +1,4 @@
-# General Game Development Ad
-This is an ad for the general public. It aims to be:
-- self replicating
-- self improving
-
-# Ad
-## Free and Open 3D puzzle game looking for developer
+# Free and Open 3D puzzle game looking for developer
 
 GlPortal is a free and open source 3D puzzle action adventure that has been in development since 2012.
 
