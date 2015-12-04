@@ -1,4 +1,4 @@
-# Ads for GlPortal
+# Advertisement for GlPortal
 This repository contains the ads for GlPortal.
 
 Ads should be:
