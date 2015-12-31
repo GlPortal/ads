@@ -10,4 +10,4 @@ Get more information about GlPortal at http://glportal.de and http://www.lgdb.or
 by mail at team@glportal.de and chat with us at freenode in ##glportal or http://glportal.de. For videos go to youtube and 
 search for glportal.
 
-This ad stinks? Help us improve it: https://github.com/GlPortal/ads/edit/master/general-ad.md
+This ad stinks? Help us improve it: https://github.com/GlPortal/ads/edit/master/artist.md
