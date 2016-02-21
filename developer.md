@@ -2,7 +2,7 @@
 
 GlPortal is a free and open source 3D puzzle action adventure written in C++ using modern OpenGL and SDL2.
 
-GlPortal lets you explore how games are made. Join our international well organized team of developers and artists and develop your skills while crafting something that people value and use all over the planet. Implement your solid vision in a framework that supports your creativity. Brainstorm with clever minds and develop your skills in a pressure-free environment.
+GlPortal lets you explore how games are made. Join our international well organized team of developers and artists and craft something that people value all over the planet. Implement your vision in a framework that supports your creativity. Brainstorm with clever minds and develop your skills in a pressure-free environment.
 
 You will use project specific tools and a modern stack.
 
