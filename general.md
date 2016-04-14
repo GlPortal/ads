@@ -1,4 +1,4 @@
-# Free and Open 3D puzzle game extending team
+[hobby] 3D action game extending team
 
 GlPortal is a free and open source 3D puzzle action adventure that has been in development since 2012.
 
