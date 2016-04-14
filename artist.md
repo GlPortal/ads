@@ -1,4 +1,4 @@
-# Free and Open 3D puzzle game looking for artist
+# [hobby] Free and Open 3D puzzle game looking for artist
 
 GlPortal is a free and open source 3D puzzle action adventure that has been in development since 2012.
 
