@@ -7,3 +7,5 @@ Clone the code at https://github.com/GlPortal/glPortal/tree/refactoring.
 
 Join the conversation on freenode #glportal, twitter @glportal_game or on reddit
 https://www.reddit.com/r/RadixEngine/
+
+Improve this ad here https://github.com/GlPortal/advertisement/edit/master/spring-cleaning.md
