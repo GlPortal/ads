@@ -1,6 +1,6 @@
-# [hobby] Open Source 3D game looking for C++ developer
+# [hobby] Open Source sci-fi fps puzzle-platformer looking for C++ developer
 
-GlPortal is a free and open source 3D puzzle action adventure written in C++ using modern OpenGL and SDL2.
+GlPortal is a free and open source first person 3D puzzle-platformer written in C++ using modern OpenGL and SDL2.
 
 The tasks are ranging from easy to expert level. You can focus on 2D, 3D, gameplay, sound, physics or logic. 
 Getting started is as easy as visiting https://github.com/GlPortal/glPortal and compiling the game or just contact us in
