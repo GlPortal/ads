@@ -15,8 +15,8 @@ Get more information about GlPortal at http://glportal.de and http://www.lgdb.or
 See a video at https://vimeo.com/163973907 or go to youtube and search for glportal.
 
 ## Contact
-- IRC #glportal on freenode or webchat on http://glportal.de. 
-- Reddit https://www.reddit.com/r/RadixEngine/
-- Gitter https://gitter.im/GlPortal/glPortal
+- **IRC** #glportal on freenode or webchat on http://glportal.de. 
+- **Reddit** https://www.reddit.com/r/RadixEngine/
+- **Gitter** https://gitter.im/GlPortal/glPortal
 
 This ad stinks? Help us improve it: https://github.com/GlPortal/ads/edit/master/developer.md
