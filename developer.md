@@ -2,9 +2,11 @@
 
 GlPortal is a free and open source first person 3D puzzle-platformer written in C++ using modern OpenGL and SDL2.
 
-The tasks are ranging from easy to expert level. You can focus on 2D, 3D, gameplay, sound, physics or logic. 
-Getting started is as easy as visiting https://github.com/GlPortal/glPortal and compiling the game or just contact us in
-gitter or irc on how to compile the game.
+- Tasks from beginner to expert level
+- Focus on 2D, 3D, gameplay, sound, physics or logic
+- Contributing is as easy as fork, compile and push
+
+    Stuck? We help you develop your skills. Contact us on reddit, gitter or irc!
 
 Join our team and craft something that people value. Implement your vision in a framework that supports your creativity. Develop your skills in a pressure-free environment.
 
