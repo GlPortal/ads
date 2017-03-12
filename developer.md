@@ -10,8 +10,9 @@ GlPortal is a free and open source first person 3D puzzle-platformer written in 
 
 # Benefits
 
-- pressure-free environment
-- space for creativity
+- Pressure-free environment
+- Space for creativity
+- Learn with and from your peers
 
 ## More Information
 Get more information about GlPortal at http://glportal.de and http://www.lgdb.org/game/glportal
