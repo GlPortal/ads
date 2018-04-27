@@ -1,7 +1,7 @@
 # [hobby] Open Source sci-fi fps teleportation puzzle-platformer looking for C++ developer
 
 GlPortal is a free and open source first person 3D teleportation puzzle-platformer written in C++ using modern OpenGL and SDL2 and its own engine.
-We have already integrated a physics engine and are planning to add some physics based puzzles.
+We have integrated a physics engine and a scripting engine.
 
 - Tasks from beginner to expert level
 - Focus on 2D, 3D, gameplay, sound, physics or logic
