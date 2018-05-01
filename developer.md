@@ -1,6 +1,7 @@
 # [hobby] Free Open Source 3d game looking for C++ developer
 
 - Tasks from beginner to expert level
+- Support from team members
 - Contributing is as easy as fork, compile and push
 
 ## Features
